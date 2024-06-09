@@ -1,42 +1,3 @@
-
-<!----------------------------------{ Title }------------------------------->
-<br>
-<div align = center>       
-         
-*Sertac Kisalar*
-
-</div>
-
-<!----------------------------------{ Logos }------------------------------->
-<p align="center">
-       <img alt="Github" 
-       src="https://img.shields.io/badge/-E7D37F?style=social&logo=github&label=srt-c&color=538392&link=https%3A%2F%2Fgithub.com%2Fsrt-c" height="20"> 
-       <img alt="CodePen"
-       src="https://img.shields.io/badge/CodePen-1A2130?style=plastic&logo=codepen&link=https%3A%2F%2Fcodepen.io%2Fsrtcode" height="20">
-       <img alt="Buy Me a Coffee" 
-       src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23ffdd00?style=plastic&logo=buymeacoffee&logoColor=1A2130&link=https%3A%2F%2Fbuymeacoffee.com%2Fsrtcode" height="20">
-       <img alt="Mail" 
-        src="https://img.shields.io/badge/Send%20Mail-FDFFE2?style=plastic&logo=gmail&logoColor=EEEEEE&labelColor=EE4E4E&link=mailto%3Asertackisalar.me%40gmail.com" height="20">
-</p>
-
-<!----------------------------------{ Techs }------------------------------->
-<p align="center">
-       <img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26?style=plastic&logo=html5&logoColor=%23fff" height="20">
-       <img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6?style=plastic&logo=css3&logoColor=%23fff" height="20">
-       <img alt="JS" src="https://img.shields.io/badge/JavaScript-%23323330?style=plastic&logo=javascript&logoColor=%23F7DF1E" height="20">
-</p>
-
-
-<br>
-
-<!----------------------------------{ Gif }------------------------------->
-<div align = center>
-
-https://github.com/srt-c/GifAndPictures/assets/110279624/10982fb3-acaf-424d-98e5-83be357be68b 
-
-</div>
-
-<br>
 <br>
 
 <!----------------------------------{ Project Title }------------------------------->
@@ -52,6 +13,19 @@ This is a to-do list web application that allows users to add, categorize, and m
 
 <br>
 <br>
+
+
+
+<!----------------------------------{ Gif }------------------------------->
+<div align = center>
+
+https://github.com/srt-c/GifAndPictures/assets/110279624/10982fb3-acaf-424d-98e5-83be357be68b 
+
+</div>
+
+<br>
+<br>
+
 
 <!----------------------------------{ Contents }------------------------------->
 
@@ -133,6 +107,34 @@ Remember to give a ⭐ if you found this helpful.
 <br>
 <br>
 
+<!----------------------------------{ Title }------------------------------->
+<br>
+<div align = center>       
+         
+*Sertac Kisalar*
 
+</div>
+
+<!----------------------------------{ Logos }------------------------------->
+<p align="center">
+       <img alt="Github" 
+       src="https://img.shields.io/badge/-E7D37F?style=social&logo=github&label=srt-c&color=538392&link=https%3A%2F%2Fgithub.com%2Fsrt-c" height="20"> 
+       <img alt="CodePen"
+       src="https://img.shields.io/badge/CodePen-1A2130?style=plastic&logo=codepen&link=https%3A%2F%2Fcodepen.io%2Fsrtcode" height="20">
+       <img alt="Buy Me a Coffee" 
+       src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23ffdd00?style=plastic&logo=buymeacoffee&logoColor=1A2130&link=https%3A%2F%2Fbuymeacoffee.com%2Fsrtcode" height="20">
+       <img alt="Mail" 
+        src="https://img.shields.io/badge/Send%20Mail-FDFFE2?style=plastic&logo=gmail&logoColor=EEEEEE&labelColor=EE4E4E&link=mailto%3Asertackisalar.me%40gmail.com" height="20">
+</p>
+
+<!----------------------------------{ Techs }------------------------------->
+<p align="center">
+       <img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26?style=plastic&logo=html5&logoColor=%23fff" height="20">
+       <img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6?style=plastic&logo=css3&logoColor=%23fff" height="20">
+       <img alt="JS" src="https://img.shields.io/badge/JavaScript-%23323330?style=plastic&logo=javascript&logoColor=%23F7DF1E" height="20">
+</p>
+
+
+<br>
 
 
