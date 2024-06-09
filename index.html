@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/Tabb/style.css">
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+  <title>Tabb</title>
+</head>
+
+<body>
+  <div class="todo-list-area">
+    <div class="todo-list">
+      <div class="todo-list-title">
+        <div class="center">
+          <!-- Input Area -->
+          <div class="todo-list-input">
+            <input type="input" class="input" placeholder="Enter Your To Do" name="input" id='input' required />
+            <label for="input" class="input-label">Enter Your To Do</label>
+          </div>
+          <button id="add-button" class="add-button add">+</button>
+          <!-- Input Area [End] -->
+          <!-- Category Selected -->
+          <div class="category">
+            <p id="category-title">Category</p>
+            <select id="category">
+              <option value="all" selected>All</option>
+              <option value="important">Important</option>
+              <option value="daily">Daily</option>
+              <option value="note">Note</option>
+            </select>
+          </div>
+          <!--  Category Selected  [End] -->
+        </div>
+      </div>
+      <div id="todo-list-content" class="todo-list-content" style="display: none;">
+        <header class="content-header">
+          <div class="row-wrapper">
+            <h2 id="content-title" class="content-title">Todo List</h2>
+          </div>
+        </header>
+        <!--  To-do List PAge -->
+        <div class="description">
+          <div class="tab-content important-content" id="important">
+            <ul id="important-page"></ul>
+          </div>
+          <div class="tab-content note-content" id="note">
+            <ul id="note-page"></ul>
+          </div>
+          <div class="tab-content daily-content" id="daily">
+            <ul id="daily-page"></ul>
+          </div>
+          <div class="tab-content all-content" id="all">
+            <ul id="all-page"></ul>
+          </div>
+          <!-- To-do list Page [End] -->
+          <!-- To-do List Tab -->
+          <div class="tab">
+            <button class="tablinks" onclick="openPage(event,'important','imp-button')"
+              id="imp-button">Important</button>
+            <button class="tablinks" onclick="openPage(event,'note','note-button')" id="note-button">Note</button>
+            <button class="tablinks" onclick="openPage(event,'daily', 'daily-button')" id="daily-button">Daily</button>
+            <button class="tablinks" onclick="openPage(event,'all', 'all-button')" id="all-button"> All</button>
+          </div>
+          <!-- To-do List Tab [End] -->
+        </div>
+        <ul class="_content-details">
+          <li class="_content-details _total">
+            <span class="span">Total</span>
+            <span id="total" class="value"></span>
+          </li>
+        </ul>
+        <button class="add-button saved"> Save</button>
+      </div>
+    </div>
+  </div>
+  </div>
+  <script src="/Tabb/app.js"></script>
+</body>
+
+</html>
