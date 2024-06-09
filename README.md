@@ -55,7 +55,7 @@ This is a to-do list web application that allows users to add, categorize, and m
 
 <!----------------------------------{ Contents }------------------------------->
 
-## Table Of Contents
+## 🧾 Table Of Contents
 
 <p align="center">
 •
@@ -83,7 +83,7 @@ This is a to-do list web application that allows users to add, categorize, and m
 
 <!----------------------------------{ Features }------------------------------->
 
-## Features
+## 🧬 Features
 
 - **Add Tasks:** *Users can add tasks to different categories: Important, Note, Daily, and All.*
 - **Categorize Tasks:** *Tasks can be categorized into different tabs.*
